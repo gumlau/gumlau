@@ -1,39 +1,28 @@
-### Hello there 👋
+### Hey, I'm Gan 👋
 
-<!-- Profile Views Counter -->
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=ganliuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=gumlau&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-#### A Business Analyst by day ☼ and a Web Developer by night ☾
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Indie+Developer;Building+Cool+Stuff;Next.js+%7C+Vue+%7C+TypeScript" alt="Typing SVG" /></a>
+</p>
 
-Business Analyst at [WeGo](https://wego.com);<br>
-Building web applications with Next.js & Vue in my free time;<br>
-Specializing in Data Visualization & Business Intelligence;<br>
-
-- 📊 I use daily: `Python`, `Tableau`, `PowerBI`, `SQL`, `Pandas`
-- 🌐 I code with: `Next.js`, `Vue`, `JavaScript`, `TypeScript`
+- 🚀 I build with: `Next.js`, `Vue`, `TypeScript`, `React`, `Tailwind CSS`
+- 🛠 Also use: `Python`, `Node.js`, `SQL`
 - 🎮 Background in **Game Development** with Unity and C#
-- 📫 Reach me at **liugan@wego.com**
+- 📫 Reach me at **keronelau@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
-    <!-- Data Visualization & Analytics Tools -->
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <!-- Web Development Tools -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+    </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -44,10 +33,10 @@ Specializing in Data Visualization & Business Intelligence;<br>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>
 </p>
-
-<!-- GitHub Stats -->
-<!-- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganliuuuu&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ganliuuuu" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ganliuuuu&show_icons=true&locale=en&theme=dracula" alt="ganliuuuu" />
-</div> -->
