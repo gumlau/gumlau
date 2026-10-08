@@ -10,6 +10,6 @@
 
 - 🚀 I build with: `Next.js`, `Vue`, `TypeScript`, `React`, `Tailwind CSS`
 - 🛠 Also use: `Python`, `Node.js`, `SQL`
-- 🎮 Background in **Game Development** with Unity and C#
-- 📫 Reach me at **gan.liu@mail.mcgill.ca**
+- 🎮 Background in **Real2Sim2Real Research**, currently building data layer for agents post-training.
+- 📫 Reach me at **keronelau@gmail.com**
 
